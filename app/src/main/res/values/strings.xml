@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screening</string>
+    <string name="footer_text">Providing PAN and Date of Birth help us find and fetch your KYC from a central registry by the Government of India. <a href="https://fi.money/">Learn more</a> </string>
+    <string name="header_text">First of the few steps to set you up with a Bank Account</string>
+    <string name="btn_next_label">Next</string>
+    <string name="no_PAN_text">I don\'t have a PAN</string>
+</resources>
